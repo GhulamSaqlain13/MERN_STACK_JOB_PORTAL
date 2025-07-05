@@ -28,7 +28,6 @@ Features
 
 
 Tech Stack
- Technology | Description 
  MongoDB    | NoSQL database for storing user and job data 
  Express.js | Backend framework for building APIs 
  React.js   | Frontend UI built with React and hooks 
